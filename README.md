@@ -1,3 +1,2 @@
-# idle-raid-speaker
-will announce idle raids
-https://discordapp.com/channels/430017996304678923/506167065464406041
+@everyone Zerekiel spawned! 15 Minutes until he is vulnerable...
+Use https://raid.travitia.xyz/ to join the raid!
